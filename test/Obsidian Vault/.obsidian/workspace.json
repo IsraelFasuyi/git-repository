@@ -26,9 +26,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ff0ab3510476c48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbaa7fd0aef72fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oliver is the goat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kjskjasjks.md",
+                "file": "oliver is the goat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kjskjasjks.md",
+                "file": "oliver is the goat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kjskjasjks.md"
+                "file": "oliver is the goat.md"
               }
             }
           }
@@ -155,9 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5de162f520b4a89",
+  "active": "dbaa7fd0aef72fe9",
   "lastOpenFiles": [
-    "Pasted image 20231012005947.png",
-    "kjskjasjks.md"
+    "oliver is the goat.md",
+    "kjskjasjks.md",
+    "Pasted image 20231012005947.png"
   ]
 }
